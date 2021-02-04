@@ -1,0 +1,83 @@
+body {}
+
+/*Haar*/
+#b1 {
+  background-color: saddlebrown;
+  width: 150px;
+  height: 50px;
+  position: fixed;
+  left: 200px;
+  top: 100px;
+}
+
+/*Hoofd*/
+#b2 {
+  background-color: #f7d3d9;
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  left: 200px;
+  top: 150px
+}
+
+/*rlinker oog*/
+#b3 {
+  background-color: #265856;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  left: 200px;
+  top: 170px
+}
+
+/*rechter oog*/
+
+#b4 {
+  background-color: #265856;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  left: 300px;
+  top: 170px
+}
+
+/*body*/
+#b5 {
+  background-color: goldenrod;
+  width: 250px;
+  height: 200px;
+  position: fixed;
+  left: 150px;
+  top: 300px;
+}
+
+/*rechter hand*/
+#b6 {
+  background-color: #f7d3d9;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  left: 350px;
+  top: 450px;
+}
+
+/*linker hand*/
+#b7 {
+  background-color: #f7d3d9;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  left: 150px;
+  top: 450px;
+}
+
+/*broek*/
+
+#b8 {
+  background-color: olivedrab;
+  width: 150px;
+  height: 200px;
+  position: fixed;
+  left: 200px;
+  top: 500px;
+}
